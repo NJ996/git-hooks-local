@@ -1,0 +1,2 @@
+Added some text to demonstrate the working of modified pre-commit file.
+Again Added some text to demonstrate the working of post-commit file.
